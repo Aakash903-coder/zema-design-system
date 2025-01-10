@@ -49,14 +49,14 @@ $piccoloGreenTokens: '$gp-50', '$gp-100', '$gp-200', '$gp-300', '$gp-400', '$gp-
 
 $greenMetaData: 'Little Green', 'Green', $piccoloGreenShades, $piccoloGreenTokens;
 
-$ta-50: #eefcfa;
-$ta-100: #dcf9f6;
-$ta-200: #a2f1e5;
-$ta-300: #51e6d0;
-$ta-400: #20c5ad;
-$ta-500: #18aa94;
-$ta-600: #138675;
-$ta-700: #0f6b5d;
+$ta-50: #eefff6;
+$ta-100: #ddffee;
+$ta-200: #c3ffe2;
+$ta-300: #9dffd0;
+$ta-400: #84FFC4;
+$ta-500: #40d78e;
+$ta-600: #1ea162;
+$ta-700: #026f3a;
 
 $aquamanTealShades: $ta-50, $ta-100, $ta-200, $ta-300, $ta-400, $ta-500, $ta-600, $ta-700;
 $aquamanTealTokens: '$ta-50', '$ta-100', '$ta-200', '$ta-300', '$ta-400', '$ta-500', '$ta-600', '$ta-700';
@@ -175,20 +175,22 @@ $lisaAmberTokens: '$al-50', '$al-100', '$al-200', '$al-300', '$al-400', '$al-500
 
 $amberMetaData: 'Lisa Amber', 'Amber', $lisaAmberShades, $lisaAmberTokens;
 
-$palete:
-	[$lightNeutralMetaData],
-	[$midNeutralsMetaData],
-	[$darkNeutralsMetaData],
-	[$greenMetaData],
-	[$tealMetaData],
-	[$turquoiseMetaData],
-	[$blueMetaData],
-	[$indigoMetaData],
-	[$violetMetaData],
-	[$pinkMetaData],
-	[$redMetaData],
-	[$orangeMetaData],
-	[$amberMetaData];
+$palete: (
+  $lightNeutralMetaData,
+  $midNeutralsMetaData,
+  $darkNeutralsMetaData,
+  $greenMetaData,
+  $tealMetaData,
+  $turquoiseMetaData,
+  $blueMetaData,
+  $indigoMetaData,
+  $violetMetaData,
+  $pinkMetaData,
+  $redMetaData,
+  $orangeMetaData,
+  $amberMetaData
+);
+
 
 $shades50: (
 	'green': $gp-50,
@@ -446,9 +448,10 @@ $indigoThemeTokens: '$in-500', '$pp-100', '$og-200', '$vr-300', '$in-400', '$og-
 $IndigoThemeMetadata: 'Indigo Theme', 'Indigo', $indigoThemeShades, $indigoThemeTokens;
 
 
-$chartThemes:
-	[$blueThemeMetadata],
-	[$IndigoThemeMetadata];
+$chartThemes: (
+	$blueThemeMetadata,
+	$IndigoThemeMetadata
+);
 
 :export {
 	gp50: $gp-50;

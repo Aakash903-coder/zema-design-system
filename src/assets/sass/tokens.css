@@ -1,0 +1,158 @@
+:export {
+  gp50: #fafbff;
+  gp100: #f0f4ff;
+  gp200: #dbe5ff;
+  gp300: #a8bfff;
+  gp400: #759aff;
+  gp500: #4275ff;
+  gp600: #0f4fff;
+  gp700: #003edd;
+  ta50: #eefff6;
+  ta100: #ddffee;
+  ta200: #c3ffe2;
+  ta300: #9dffd0;
+  ta400: #84FFC4;
+  ta500: #40d78e;
+  ta600: #1ea162;
+  ta700: #026f3a;
+  ts50: #f5fbff;
+  ts100: #e6f6fe;
+  ts200: #C2EDFF;
+  ts300: #7BD0F4;
+  ts400: #42AAD7;
+  ts500: #1F86B2;
+  ts600: #18698B;
+  ts700: #155875;
+  bn50: #f6f9fe;
+  bn100: #e6effe;
+  bn200: #b4cdf8;
+  bn300: #729ee9;
+  bn400: #467bd8;
+  bn500: #2f64c1;
+  bn600: #2051a7;
+  bn700: #19438a;
+  in50: #f5f6ff;
+  in100: #ebefff;
+  in200: #CED6FD;
+  in300: #9bacf8;
+  in400: #6a7cd7;
+  in500: #4b5caf;
+  in600: #374486;
+  in700: #2f396f;
+  vr50: #faf5ff;
+  vr100: #f7f0ff;
+  vr200: #E6D2F9;
+  vr300: #CEABED;
+  vr400: #a772d5;
+  vr500: #8955B9;
+  vr600: #6B3A98;
+  vr700: #5c3082;
+  pp50: #fff5fb;
+  pp100: #ffebf7;
+  pp200: #F9C8E2;
+  pp300: #EF8FC0;
+  pp400: #DA629F;
+  pp500: #BE377C;
+  pp600: #A12663;
+  pp700: #88255a;
+  rc50: #fef6f7;
+  rc100: #ffebed;
+  rc200: #FABDC5;
+  rc300: #F98B98;
+  rc400: #F3596C;
+  rc500: #E03E52;
+  rc600: #C92C3F;
+  rc700: #b22435;
+  og50: #fef7f6;
+  og100: #ffefeb;
+  og200: #FFD6CC;
+  og300: #FDAF9B;
+  og400: #FF8567;
+  og500: #F06442;
+  og600: #D64B29;
+  og700: #bc4224;
+  al50: #fefbf6;
+  al100: #fdf3e2;
+  al200: #ffe5b8;
+  al300: #fdd286;
+  al400: #f6bd5a;
+  al500: #eda831;
+  al600: #d89013;
+  al700: #c08011;
+  n0: #FFFFFF;
+  n10: #FAFCFE;
+  n20: #F4F8FB;
+  n30: #E7EDF3;
+  n40: #DFE5EC;
+  n50: #D6DCE3;
+  n100: #C3CCD5;
+  n200: #ACB8C3;
+  n300: #99A6B2;
+  n400: #8794A1;
+  n500: #647382;
+  n600: #52616F;
+  n700: #3B4754;
+  n800: #28333E;
+  n900: #1D262F;
+  palete: "Light Neutrals", "Light", #FFFFFF, #FAFCFE, #F4F8FB, #E7EDF3, #DFE5EC, "$n-0", "$n-10", "$n-20", "$n-30", "$n-40", "Mid Neutrals", "Gray", #D6DCE3, #C3CCD5, #ACB8C3, #99A6B2, #8794A1, "$n-50", "$n-100", "$n-200", "$n-300", "$n-400", "Dark Neutrals", "Dark", #647382, #52616F, #3B4754, #28333E, #1D262F, "$n-500", "$n-600", "$n-700", "$n-800", "$n-900", "Little Green", "Green", #fafbff, #f0f4ff, #dbe5ff, #a8bfff, #759aff, #4275ff, #0f4fff, #003edd, "$gp-50", "$gp-100", "$gp-200", "$gp-300", "$gp-400", "$gp-500", "$gp-600", "$gp-700", "Aquaman Teal", "Teal", #eefff6, #ddffee, #c3ffe2, #9dffd0, #84FFC4, #40d78e, #1ea162, #026f3a, "$ta-50", "$ta-100", "$ta-200", "$ta-300", "$ta-400", "$ta-500", "$ta-600", "$ta-700", "Sulivan Turquoise", "Turquoise", #f5fbff, #e6f6fe, #C2EDFF, #7BD0F4, #42AAD7, #1F86B2, #18698B, #155875, "$ts-50", "$ts-100", "$ts-200", "$ts-300", "$ts-400", "$ts-500", "$ts-600", "$ts-700", "Nocturne Blue", "Blue", #f6f9fe, #e6effe, #b4cdf8, #729ee9, #467bd8, #2f64c1, #2051a7, #19438a, "$bn-50", "$bn-100", "$bn-200", "$bn-300", "$bn-400", "$bn-500", "$bn-600", "$bn-700", "Nightwing Indigo", "Indigo", #f5f6ff, #ebefff, #CED6FD, #9bacf8, #6a7cd7, #4b5caf, #374486, #2f396f, "$in-50", "$in-100", "$in-200", "$in-300", "$in-400", "$in-500", "$in-600", "$in-700", "Raven Violet", "Violet", #faf5ff, #f7f0ff, #E6D2F9, #CEABED, #a772d5, #8955B9, #6B3A98, #5c3082, "$vr-50", "$vr-100", "$vr-200", "$vr-300", "$vr-400", "$vr-500", "$vr-600", "$vr-700", "Peppa Pink", "Pink", #fff5fb, #ffebf7, #F9C8E2, #EF8FC0, #DA629F, #BE377C, #A12663, #88255a, "$pp-50", "$pp-100", "$pp-200", "$pp-300", "$pp-400", "$pp-500", "$pp-600", "$pp-700", "Carmen Red", "Red", #fef6f7, #ffebed, #FABDC5, #F98B98, #F3596C, #E03E52, #C92C3F, #b22435, "$rc-50", "$rc-100", "$rc-200", "$rc-300", "$rc-400", "$rc-500", "$rc-600", "$rc-700", "Goku Orange", "Orange", #fef7f6, #ffefeb, #FFD6CC, #FDAF9B, #FF8567, #F06442, #D64B29, #bc4224, "$og-50", "$og-100", "$og-200", "$og-300", "$og-400", "$og-500", "$og-600", "$og-700", "Lisa Amber", "Amber", #fefbf6, #fdf3e2, #ffe5b8, #fdd286, #f6bd5a, #eda831, #d89013, #c08011, "$al-50", "$al-100", "$al-200", "$al-300", "$al-400", "$al-500", "$al-600", "$al-700";
+  chartThemes: "Blue Theme", "Blue", #467bd8, #42AAD7, #84FFC4, #19438a, #4b5caf, #a8bfff, #FFD6CC, #ffefeb, #ffe5b8, #fdd286, "$bn-400", "$ts-400", "$ta-400", "$bn-700", "$in-500", "$gp-300", "$og-200", "$og-100", "$al-200", "$al-300", "Indigo Theme", "Indigo", #4b5caf, #ffebf7, #FFD6CC, #CEABED, #6a7cd7, #FDAF9B, #E7EDF3, #3B4754, #a772d5, #EF8FC0, "$in-500", "$pp-100", "$og-200", "$vr-300", "$in-400", "$og-300", "$n-30", "$n-700", "$vr-400", "$pp-300";
+}
+
+* {
+  box-sizing: border-box;
+}
+
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+svg {
+  box-sizing: content-box;
+}
+
+body {
+  line-height: 1.25;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+svg:focus {
+  outline: none;
+}
+
+div .test-column-background {
+  background-color: rgba(239, 118, 33, 0.2);
+  box-shadow: inset 16px 0 0 rgba(239, 118, 33, 0.2), inset -16px 0 rgba(239, 118, 33, 0.2);
+  outline: 1px solid rgba(239, 118, 33, 0.4);
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+
+div .test-column-background-no-gutters {
+  background-color: rgba(239, 118, 33, 0.2);
+  outline: 1px solid rgba(239, 118, 33, 0.4);
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+
+div .test-alignment-row {
+  background-color: rgba(255, 0, 0, 0.1);
+  min-height: 120px;
+}
+
+.test-parent {
+  overflow: hidden;
+}
+
+.sto-1lsh4kf {
+  background-image: url("https://rahulaher.netlify.app/img/logo/Zema_logo.svg");
+  background-color: #cccccc;
+}/*# sourceMappingURL=tokens.css.map */

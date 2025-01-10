@@ -1,0 +1,28 @@
+div .test-column-background {
+  background-color: rgba(239, 118, 33, 0.2);
+  box-shadow: inset 16px 0 0 rgba(239, 118, 33, 0.2), inset -16px 0 rgba(239, 118, 33, 0.2);
+  outline: 1px solid rgba(239, 118, 33, 0.4);
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+
+div .test-column-background-no-gutters {
+  background-color: rgba(239, 118, 33, 0.2);
+  outline: 1px solid rgba(239, 118, 33, 0.4);
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+
+div .test-alignment-row {
+  background-color: rgba(255, 0, 0, 0.1);
+  min-height: 120px;
+}
+
+.test-parent {
+  overflow: hidden;
+}
+
+.sto-1lsh4kf {
+  background-image: url("https://rahulaher.netlify.app/img/logo/Zema_logo.svg");
+  background-color: #cccccc;
+}/*# sourceMappingURL=utils.css.map */
